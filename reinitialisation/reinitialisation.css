@@ -1,0 +1,20 @@
+.main{
+    margin-left: 35em;
+    margin-top: 5em;
+    width: 25em;
+}
+.icon h2{
+    color: #ed0741;
+}
+button{
+    width: 24em;
+    margin-top: 10em;
+}
+.connect a{
+    margin-left: 10em;
+    margin-top: 4em;
+    text-decoration: none;
+}
+.connect{
+    margin-top: 2em;
+}

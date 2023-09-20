@@ -1,0 +1,35 @@
+form{
+    justify-content: center;
+    padding-left: 30em;
+    width: 50em;
+    margin-top: 5em;
+}
+.icon{
+    color: #ed0741;
+    margin-top: -2em;
+}
+
+a{
+    /* margin-left: 5em; */
+    /* display: flex; */
+}
+
+.card-body{
+    /* border: 1px solid red; */
+    background-color: rgb(245,245,245);
+}
+ 
+button{
+    position: relative;
+    right: 4em;
+}
+
+a{
+    position: relative;
+    left: 4em;
+    top: -2em;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
